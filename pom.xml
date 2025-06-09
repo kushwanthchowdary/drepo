@@ -6,7 +6,7 @@
         
         <groupId>com.efsavage</groupId>
         
-        <artifactId>hello-world-war</artifactId>
+        <artifactId>mvn</artifactId>
         
         <version>1.0.0</version>
         
